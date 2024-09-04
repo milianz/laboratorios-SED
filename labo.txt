@@ -1,0 +1,20 @@
+1. Punto más débil de PGP
+Gestión de Claves: Manejar y proteger las claves puede ser complicado.
+Ingeniería Social: Riesgo de que atacantes se hagan pasar por entidades confiables.
+Implementaciones Inseguras: Algunas versiones o implementaciones pueden tener vulnerabilidades.
+2. Uso de Cifrado Simétrico
+Velocidad: Más rápido que el cifrado asimétrico.
+Datos en Reposo: Bueno para cifrar archivos almacenados.
+Sesiones de Comunicación: Adecuado para cifrar datos en sesiones una vez que se ha intercambiado una clave inicial de forma segura.
+Recursos Limitados: Útil en dispositivos con recursos limitados.
+3. Ciclo de Vida del Desarrollo de Software Seguro
+Planificación y Requisitos: Definir requisitos de seguridad y analizar riesgos.
+Diseño: Incorporar y revisar prácticas de diseño seguro.
+Desarrollo: Implementar codificación segura y revisar el código.
+Pruebas: Realizar pruebas de seguridad y validación.
+Implementación: Desplegar de manera segura.
+Mantenimiento y Monitoreo: Supervisar, actualizar y aplicar parches.
+Desmantelamiento: Eliminar datos y componentes de manera segura.
+
+
+
